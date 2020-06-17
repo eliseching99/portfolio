@@ -38,3 +38,9 @@
   background-color: #f3ece7!important;
 }
 
+@media screen and (min-width: 50em) {
+  html {
+    /*font-size: 2vw;*/
+  }
+}
+
